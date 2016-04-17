@@ -1,2 +1,2 @@
 # weather_widget
-FE 101 classwork
+Front End 101
